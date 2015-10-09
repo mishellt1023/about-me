@@ -6,18 +6,19 @@ Mishellt1023@gmail.com
 
 **_My Schedule_**
 
-**Pd 1**  _English_
+**Pd 1**     _English_
 
-**Pd 2**  _Gym_
+**Pd 2**     _Gym_
 
-**Pd 3**  _Lunch_
+**Pd 3**      _Lunch_
 
-**Pd 4** _algebra2
+**Pd 4**     _algebra2_
 
-**Pd 5**_Spanish 3_
 
-**Pd 6**_us history_
+**Pd 5**       _Spanish 3_
 
-**Pd 7**_physics_
+**Pd 6**       _us history_
 
-**Pd 8**_Software Engineer_
+**Pd 7**         _physics_
+
+**Pd 8**      _Software Engineer_
